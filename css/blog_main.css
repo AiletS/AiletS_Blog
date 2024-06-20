@@ -1,0 +1,14 @@
+.header {
+  background-color: #2093ff;
+  padding: 20px;
+  font-size: 3rem;
+  width: 100vw;
+  height: 100px;
+  color: white;
+  /*ディスプレイのサイズ変更に対応*/
+  display: flex;
+  /*水平方向で中央に配置*/
+  justify-content: center;
+  /*垂直方向で中央に配置*/
+  align-items: center;
+}
